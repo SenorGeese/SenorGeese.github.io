@@ -14,12 +14,14 @@ Titanfall 2 Camera Tool's are broken fundamentally. There is a chance for this t
 # Recording in Northstar
 
 ## Camera Tool: 
-InjectableGenericCameraSystem (with minor edits) - FransBouma
-- https://github.com/SenorGeese/RETRY-TF2/tree/main/Tools/CameraTool
+
+[InjectableGenericCameraSystem (with minor edits)](https://github.com/SenorGeese/RETRY-TF2/tree/main/Tools/CameraTool) by: FransBouma - https://github.com/SenorGeese/RETRY-TF2/tree/main/Tools/CameraTool
 
 Works in Northstar or TF2. Allows to use the current players camera and fly it around like freecam.
 
-## Viewmodel
+
+
+## Toggling viewmodel
 
 # Recording in Vanilla TF2
 
