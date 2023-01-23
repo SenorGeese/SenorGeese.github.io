@@ -15,7 +15,7 @@ Titanfall 2 Camera Tool's are broken fundamentally. There is a chance for this t
 
 ## Camera Tool: 
 
-[InjectableGenericCameraSystem (with minor edits)](https://github.com/SenorGeese/RETRY-TF2/tree/main/Tools/CameraTool) by: FransBouma - https://github.com/SenorGeese/RETRY-TF2/tree/main/Tools/CameraTool
+[InjectableGenericCameraSystem (with minor edits)](https://github.com/SenorGeese/RETRY-TF2/tree/main/Tools/CameraTool) by: FransBouma - [https://github.com/SenorGeese/RETRY-TF2/tree/main/Tools/CameraTool](https://github.com/SenorGeese/RETRY-TF2/tree/main/Tools/CameraTool)
 
 Works in Northstar or TF2. Allows to use the current players camera and fly it around like freecam.
 
@@ -28,7 +28,7 @@ Works in Northstar or TF2. Allows to use the current players camera and fly it a
 ## Camera Tool: 
 Only works in TF2. Allows to use the current players camera and fly it around like freecam.
 
-[InjectableGenericCameraSystem](https://github.com/FransBouma/InjectableGenericCameraSystem/tree/master/Cameras/Titanfall2) by: FransBouma - https://github.com/FransBouma/InjectableGenericCameraSystem/tree/master/Cameras/Titanfall2
+[InjectableGenericCameraSystem](https://github.com/FransBouma/InjectableGenericCameraSystem/tree/master/Cameras/Titanfall2) by: FransBouma - [https://github.com/FransBouma/InjectableGenericCameraSystem/tree/master/Cameras/Titanfall2](https://github.com/FransBouma/InjectableGenericCameraSystem/tree/master/Cameras/Titanfall2)
 
 
 ## Toggling viewmodel
