@@ -1,12 +1,13 @@
 # Before you start
 
-# Titanfall 2 *thing*
-# *thing* = Demos, Spectating, Camera Tool
+# Read "What's TF2CT?" page.
 
-## What to call it?
-Since demos, spectating, camera tool, and other terms are all different but are mainly close enough, so I will refer to these items as "Camera Tool". In short TF2CT; Titanfall 2 Camera Tool.
-
-# TF2CT (Titanfall 2 Camera Tool)
+Explains TF2CT and it's state.
 
 # State of TF2CT
-Titanfall 2 Camera Tool's are broken fundamentally. There is a chance for this to be fixed, but we'd need help from [Northstar](northstar.tf) devs. As they are very skilled and conquered thought to be impossible tasks such as custom models, custom maps, and custom textures.
+
+Titanfall 2 Camera Tool's are broken fundamentally. There is a chance for this to be fixed, but we'd need help from [Northstar](northstar.tf) devs. As they are very skilled and conquered thought to be impossible tasks such as custom models, custom animations, custom maps, and custom textures.
+
+# Using TF2CT
+
+Accept that TF2CT is broken and difficult to use. Explore new ways to get the best use of it and explore and be creative with how you use it.
