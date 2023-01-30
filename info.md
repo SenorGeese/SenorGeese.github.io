@@ -1,3 +1,5 @@
+# Before you start
+
 # Titanfall 2 *thing*
 # *thing* = Demos, Spectating, Camera Tool
 
