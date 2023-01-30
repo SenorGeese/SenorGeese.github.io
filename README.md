@@ -12,6 +12,7 @@ Since demos, spectating, camera tool, and other terms are all different but are 
 Titanfall 2 Camera Tool's are broken fundamentally. There is a chance for this to be fixed, but we'd need help from [Northstar](northstar.tf) devs. As they are very skilled and conquered thought to be impossible tasks such as custom models, custom maps, and custom textures.
 
 # Recording in Northstar
+A video about it: [https://youtu.be/vngAik5oVF4](https://youtu.be/vngAik5oVF4)
 
 ## Camera Tool: 
 
